@@ -1,2 +1,2 @@
 # CCRNet
-Official implementation of the CCRNet.
+Official implementation will be released upon acceptance of the paper.
